@@ -8,10 +8,10 @@ namespace CarRacing
 {
     enum CarSpeed
     {
-        Low = 90,
-        Middle = 150,
+        Low = 190,
+        Middle = 240,
         High = 250,
-        SuperHigh = 450
+        SuperHigh = 290
     }
 
     enum BonusSpeed
