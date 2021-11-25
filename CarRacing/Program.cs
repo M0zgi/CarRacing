@@ -43,11 +43,7 @@ namespace CarRacing
                 Console.WriteLine(item);
             }
 
-            Console.WriteLine(new string('-', 30));
-
-            // Game game = new Game();
-
-            //gameDelegate.Invoke();
+            Console.WriteLine(new string('-', 30));         
 
             //Перед стартом гонки раздаем бонусы ввиде увеличения скорости
             Game.Start(race1);
